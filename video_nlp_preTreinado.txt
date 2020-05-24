@@ -1,1 +1,5 @@
+Vídeo no YouTube:
 https://www.youtube.com/watch?v=BeiKQikbAHc
+
+Notebook colab:
+https://colab.research.google.com/drive/1Ta00xz2pyNzKPpmA1Ch2SrD3HrurJyXD#scrollTo=7UErKlpyFxwC
